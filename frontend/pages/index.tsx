@@ -39,7 +39,7 @@ const Home: NextPage = () => {
 							innovative NFT collection where history meets
 							blockchain technology. Dive into a realm where each
 							NFT is a digital tribute to the legendary commanders
-							of the past, uniquely minted with Chainlink's
+							of the past, uniquely minted with Chainlink&apos;s
 							advanced services. Explore our collection,
 							experience the fusion of historical significance and
 							blockchain innovation, and own a piece of history
