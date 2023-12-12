@@ -16,12 +16,12 @@ Magister Militum is different from conventional NFT collections in terms of oper
 - Token Id: 10 ---> Metadata: Cnut the Great
 - Token Id: 11 ---> Metadata: William the Conqueror
 - Token Id: 12 ---> Metadata: Valens
-- Token Id: 13 ---> Metadata: Valens
+- Token Id: 13 ---> Metadata: Valens <br>
 As can be seen, the content of the token is determined completely randomly. Even though the token contents are the same, they are essentially different tokens. The user can mint tokens by paying a certain amount of fee. The NFT metadata content also includes information about the commander's features. Example:
 * Attack: 88
 * Defense: 87
 * Administration: 91
-* Morale: 82
+* Morale: 82 <br>
 The user has the right to change the above features of his NFT for a certain fee creating an new URI using IPFS and submitting it to our app. In this way, it can increase the originality of NFT.
 
 ## What Does Chainlink Services Do
