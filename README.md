@@ -1,6 +1,6 @@
 # Magister Militum
 
-## How Does the Logic Works
+## How Works the Logic
 
 Magister Militum is different from conventional NFT collections in terms of operation. It does not have a specific number of tokens. It only has a certain number of nft content. There are 10 different commander metadata contents in this demo. Any of these contents are matched with the next minted token and are created with NFT metadata. Here is an example NFT collection that explains how this works:
 - Token Id: 0 ---> Metadata: Su Dingfang
@@ -17,16 +17,16 @@ Magister Militum is different from conventional NFT collections in terms of oper
 - Token Id: 11 ---> Metadata: William the Conqueror
 - Token Id: 12 ---> Metadata: Valens
 - Token Id: 13 ---> Metadata: Valens <br>
-<br>
+
 As can be seen, the content of the token is determined completely randomly. Even though the token contents are the same, they are essentially different tokens. The user can mint tokens by paying a certain amount of fee. The NFT metadata content also includes information about the commander's features. Example:
 * Attack: 88
 * Defense: 87
 * Administration: 91
 * Morale: 82 <br>
-<br>
+
 The user has the right to change the above features of his NFT for a certain fee creating an new URI using IPFS and submitting it to our app. In this way, it can increase the originality of NFT.
 
-## What Does Chainlink Services Do
+## What Do Chainlink Services
 
 In our project, we use chainlink services to increase decentralization and verifiability, improve user experience and automate processes.
 
